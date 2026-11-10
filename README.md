@@ -105,6 +105,7 @@ Teachers Pay Teachers has no official MCP server. Cotlet.dev is a hosted MCP ser
 
 - [Teachers Pay Teachers on Cotlet.dev](https://cotlet.dev/integrations/teachers-pay-teachers-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=teachers-pay-teachers&utm_content=find)
 - [PyPI package teachers-pay-teachers-mcp](https://pypi.org/project/teachers-pay-teachers-mcp/)
+- [Odel](https://odel.app/modules/cotlet/teachers-pay-teachers)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-teachers-pay-teachers-to-ai-agents-guide)
 
 ## Also works with
